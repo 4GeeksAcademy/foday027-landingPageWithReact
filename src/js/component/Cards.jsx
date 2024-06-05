@@ -7,8 +7,8 @@ export const Cards = () => {
 
 
             <div className=' one mb-5 bg-tertiary '>
-                <h1>A Warm Welcome!</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam aut odio dolore accusamus perferendis, earum nisi saepe quod minima quae reiciendis repudiandae autem magni similique! Amet vel eligendi voluptatibus adipisci.</p>
+                <h1 className = 'text-start'>A Warm Welcome!</h1>
+                <p className = 'text-start'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam aut odio dolore accusamus perferendis, earum nisi saepe quod minima quae reiciendis repudiandae autem magni similique! Amet vel eligendi voluptatibus adipisci.</p>
                 <button className='btn btn-primary mb-2' type='submit'>Call to action!</button>
             </div>
 
