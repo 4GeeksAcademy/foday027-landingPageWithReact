@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Nav = () => {
+const Nav = () => {
     return (
         <nav className="navbar navbar-expand-lg bg-secondary  d-flex">
         <div className="container">
