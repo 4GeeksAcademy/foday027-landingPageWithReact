@@ -1,7 +1,6 @@
 import React from 'react';
-import {Cards} from './Cards';
 
-function Card(item) {
+function Card({ item }) {
     return (
         <div className="card col-md-3">
             <img src={item.img} className="card-img-top" />
